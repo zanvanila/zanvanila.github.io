@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://zanvanila.github.io
+title: TingglingThoughts
+email: itszanjabila@gmail.com
+author: zanvanila
+description: where I rest my thoughts
+paginate: 3
+google_analytics: 
